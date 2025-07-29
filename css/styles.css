@@ -169,6 +169,11 @@ button {
 
 /* STRATEGY */
 
+.strategy {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
 .visually-hidden-strategy-title {
   position: absolute;
   width: 1px;
@@ -186,8 +191,6 @@ button {
   display: block;
   width: 1128px;
   height: 104px;
-  padding-top: 120px;
-  padding-bottom: 120px;
 }
 
 .strategy-list {
@@ -216,9 +219,6 @@ button {
 }
 
 /* OUR TEAM */
-
-.container-team {
-}
 
 .team {
   background-color: #f4f4fd;
