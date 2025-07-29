@@ -244,6 +244,7 @@ button {
 }
 
 .team-list-item {
+  border-radius: 0 0 4px 4px;
   background-color: #ffffff;
 }
 
@@ -294,6 +295,7 @@ button {
 }
 
 .portfolio-list-item {
+  padding: 32px 16px;
   width: 360px;
   background-color: #fff;
 }
@@ -305,9 +307,7 @@ button {
 }
 
 .portfolio-list-title {
-  padding-top: 32px;
-  padding-left: 16px;
-  padding-bottom: 8px;
+  margin-bottom: 8px;
   text-align: left;
   font-weight: 500;
   font-size: 20px;
