@@ -130,12 +130,13 @@ img {
 .hero {
   background-color: #2e2f42;
   height: 600px;
+  padding-top: 188px;
+  padding-bottom: 188px;
 }
 
 .hero-title {
   max-width: 496px;
   margin: 0 auto;
-  padding-top: 188px;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -151,7 +152,6 @@ img {
 
 .hero-button {
   margin-top: 48px;
-  margin-bottom: 188px;
   border-radius: 4px;
   padding: 16px 32px;
   width: 169px;
