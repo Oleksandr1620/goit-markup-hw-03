@@ -223,11 +223,12 @@ button {
 .team {
   background-color: #f4f4fd;
   height: 732px;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .team-title {
-  padding-top: 120px;
-  padding-bottom: 72px;
+  margin-bottom: 72px;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -271,10 +272,14 @@ button {
 
 /* PORTFOLIO */
 
+.portfolio {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
 .container-portfolio {
   display: block;
   width: 1128px;
-  margin-bottom: 120px;
   padding: 0;
 }
 
